@@ -373,7 +373,7 @@ H Επτανησιακή Μουσική Σχολή ίσως να είναι η �
 <p><img src="/images/laterna_defi.jpg" alt="Λατέρνα Ντέφι" style="height: 450px; width:300px;"/><br> Λατέρνα και Ντέφι</p>
 <p><img src="/images/kithara.jpg" alt="Κιθαρα" style="height: 300px; width:200px;"/><br>Κιθάρα. Κατασκευή Φώτης Αυγέρης, Αθήνα, εποχή μεσοπολέμου. </p>
 <p><img src="/images/violi.jpg" alt="Βιολί" style="height: 300px; width:200px;"/><br>Βιολί και δοξάρι.  Κατασκευή Φώτης Αυγέρης, Αθήνα, εποχή μεσοπολέμου.</p>
-<p><img src="/images/madolino_madola.jpg" alt="Μαντολίνο Μάντολα" style="height: 400px; width:300px;"/> Κάτω: Μαντολίνο. Επάνω: Μαντόλα. Κατασκευή Ιωάννης Γ. Γομπάκης,  Αθήνα, εποχή μεσοπολέμου. </p>
+<p><img src="/images/madolino_madola.jpg" alt="Μαντολίνο Μάντολα" style="height: 400px; width:300px;"/><br> Κάτω: Μαντολίνο. Επάνω: Μαντόλα. Κατασκευή Ιωάννης Γ. Γομπάκης,  Αθήνα, εποχή μεσοπολέμου. </p>
 <p><img src="/images/mikrografies.jpg" alt="Μικρογραφίες" style="height: 200px; width:300px;"/>.
 <img src="/images/mikrografies2.jpg" alt="Μικρογραφίες" style="height: 200px; width:300px;"/><br> Λαγούτο. Μικρογραφίες 18ου αι. Χφ. Ερωτόκριτου (1710). Harley 5644, Βρετανικό Μουσείο, Λονδίνο.</p>
 </div>
