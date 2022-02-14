@@ -372,7 +372,7 @@ H Επτανησιακή Μουσική Σχολή ίσως να είναι η �
 <br><img src="/images/koydounia.jpg" alt="Κουδούνια" style="height: 200px; width:300px;"/>
 <br><img src="/images/laterna_defi.jpg" alt="Λατέρνα Ντέφι" style="height: 450px; width:300px;"/>
 <br><img src="/images/kithara.jpg" alt="Κιθαρα" style="height: 300px; width:200px;"/>
-<br><img src="/images/koydounia.jpg" alt="Κουδούνια" style="height: 200px; width:300px;"/>
+<br><img src="/images/violi.jpg" alt="Βιολί" style="height: 300px; width:200px;"/>
 <br><img src="/images/mikrografies.jpg" alt="Μικρογραφίες" style="height: 200px; width:300px;"/>
 <br><img src="/images/mikrografies2.jpg" alt="Μικρογραφίες" style="height: 200px; width:300px;"/>
 <br><img src="/images/madolino_madola.jpg" alt="Μαντολίνο Μάντολα" style="height: 400px; width:300px;"/>
